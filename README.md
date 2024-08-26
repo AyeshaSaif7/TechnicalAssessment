@@ -24,4 +24,4 @@ Before running the tests, ensure you have the following installed:
 ## Setup Instructions
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/TechnicalAssessmentAyeshaSaif.git
+   git clone https://github.com/AyeshaSaif7/TechnicalAssessment.git
